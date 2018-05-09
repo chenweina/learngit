@@ -1,1 +1,2 @@
+/weina/
 print('hello,world.')
